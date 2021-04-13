@@ -1,4 +1,3 @@
-pusan national university
+Pusan National University
 operating system 
 xv6 projects
-부산대 환영
